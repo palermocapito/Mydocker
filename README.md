@@ -1,3 +1,1 @@
-# Mydocker
-# Mydocker
-# Mydocker
+some practices about pipelines and docker
